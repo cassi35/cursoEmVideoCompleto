@@ -29,8 +29,19 @@ lista demarcada
 termino tabela 
 ***
 ## _tabela com js_
-```
+```js
 let i = 12
 i % 2 
 console.log(i)
 ```
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
+<h1>ola </h1>
