@@ -21,3 +21,8 @@ lista demarcada
 
 - teste
 -[]criar tarefa 
+```js
+for i in arr{
+console.log('cassiano')
+}
+``
