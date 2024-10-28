@@ -20,3 +20,17 @@ lista demarcada
 - teste
 - teste
 -[]criar tarefa 
+***
+# __tabelas__
+                            num | nome | nota
+                            --|--|--
+                            1|cassiano|8.8
+                            2|pedro| 7.3
+termino tabela 
+***
+## _tabela com js_
+```
+let i = 12
+i % 2 
+console.log(i)
+```
