@@ -48,5 +48,15 @@ console.log(i)
 </details>
 
 ***
-<h1>git terminal<h1>
-*** 
+1. git status
+2. git commit-a -m 'mensagem'
+3. git 
+
+***
+# create a new repo 
+1. git init
+2. git add README.md
+3. git commit -m 'mensagem comitada'
+4. git branch -M main
+5. git remote add origin https://github.com/cassiano
+6. git push -U origin main 
