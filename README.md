@@ -54,6 +54,7 @@ console.log(i)
 4. git checkout -b 'criar branch'
 5. git push
 6. git merge outrobranch
+7. git pull
 ***
 # create a new repo 
 1. git init
