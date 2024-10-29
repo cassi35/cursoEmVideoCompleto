@@ -60,3 +60,10 @@ console.log(i)
 4. git branch -M main
 5. git remote add origin https://github.com/cassiano
 6. git push -U origin main 
+***
+# _colocando um repositorio que_ 
+# _existe por linha de comando_
+
+1. git remote add origin https://github.com/nomeprojeto
+2. git branch -M main
+3. push -u origin main
