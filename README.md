@@ -47,3 +47,6 @@ console.log(i)
 
 </details>
 
+***
+<h1>git terminal<h1>
+*** 
