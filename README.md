@@ -47,3 +47,24 @@ console.log(i)
 
 </details>
 
+***
+1. git status
+2. git commit-a -m 'mensagem'
+3. git 
+4. gir checkout -b 'criar branch'
+***
+# create a new repo 
+1. git init
+2. git add README.md
+3. git commit -m 'mensagem comitada'
+4. git branch -M main
+5. git remote add origin https://github.com/cassiano
+6. git push -U origin main 
+***
+# _colocando um repositorio que_ 
+# _existe por linha de comando_
+
+1. git remote add origin https://github.com/nomeprojeto
+2. git branch -M main
+3. push -u origin main
+4. link de comandos https://gist.github.com/leocomelli/2545add34e4fec21ec16
