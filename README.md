@@ -55,6 +55,7 @@ console.log(i)
 5. git push
 6. git merge outrobranch
 7. git pull
+8. git clone https://urldogithub
 ***
 # create a new repo 
 1. git init
