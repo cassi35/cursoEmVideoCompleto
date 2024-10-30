@@ -51,6 +51,11 @@ console.log(i)
 1. git status
 2. git commit-a -m 'mensagem'
 3. git 
+4. git checkout -b 'criar branch'
+5. git push
+6. git merge outrobranch
+7. git pull
+8. git clone https://urldogithub
 4. gir checkout -b 'criar branch'
 ***
 # create a new repo 
@@ -67,4 +72,5 @@ console.log(i)
 1. git remote add origin https://github.com/nomeprojeto
 2. git branch -M main
 3. push -u origin main
+4. link de comandos https://gist.github.com/leocomelli/2545add34e4fec21ec16
 4. link de comandos https://gist.github.com/leocomelli/2545add34e4fec21ec16
